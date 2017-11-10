@@ -1,3 +1,6 @@
+var ret_data1 = require('./external');
+var ret_data2 = require('./ext2');
+
 var var1 = 5;
 var var2 = 7;
 var var5 = 56;
@@ -6,13 +9,8 @@ var var6 = 46;
 
 console.log(var1 + var2);
 
-function func1() {
-  var3 = 6;
-  var4 = 9;
-  return var3 * var4;
-}
 
-console.log(func1());
+console.log(ret_data2.data2());
 
 function func2() {
   console.log("Hi, this is the console, inside the funciton");
@@ -40,3 +38,7 @@ var person = {
 }
 
 console.log(person.name);
+
+
+ret_data1.data1();
+console.log(ret_data2.data2());
