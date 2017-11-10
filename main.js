@@ -28,7 +28,7 @@ if (var5 == var6) {
 }
 
 for (a = 0; a < 10; a++) {
-  console.log(a + ". This is the Lopp");
+  console.log(a + ". This is the Loop");
 }
 
 var person = {
