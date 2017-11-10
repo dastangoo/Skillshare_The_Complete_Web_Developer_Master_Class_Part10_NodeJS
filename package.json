@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "connect": "^3.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dastangoo/Skillshare_The_Complete_Web_Developer_Master_Class_Part10_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dastangoo/Skillshare_The_Complete_Web_Developer_Master_Class_Part10_NodeJS/issues"
+  },
+  "homepage": "https://github.com/dastangoo/Skillshare_The_Complete_Web_Developer_Master_Class_Part10_NodeJS#readme"
+}
